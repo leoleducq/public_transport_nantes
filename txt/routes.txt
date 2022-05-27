@@ -1,0 +1,110 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+1-0,1,François Mitterrand / Jamet - Beaujoire / Ranzay,,0,007a45,ffffff
+1B-0,BR1,François Mitterrand - Beaujoire / Ranzay,,3,007a45,ffffff
+2-0,2,Orvault Grand Val - Gare de Pont Rousseau,,0,e53138,ffffff
+2B-0,BR2,Orvault Grand Val - Gare de Pont Rousseau,,3,e53138,ffffff
+3-0,3,Marcel Paul - Neustrie,,0,0079bc,ffffff
+4-0,4,Foch - Cathédrale - Porte de Vertou,,3,fdc600,000000
+5-0,5,Hangar à Bananes - Gare Sud,,3,34b4e4,ffffff
+10-0,10,Gare de Chantenay - Bd de Doulon,,3,ffed00,000000
+11-0,11,Tertre - Perray,,3,e9c389,000000
+12-0,12,Jules Verne - Beauséjour,,3,b5ddf3,000000
+23-0,23,Haluchère Batignolles - Mendès France - Bellevue,,3,34b4e4,ffffff
+26-0,26,Jonelière - Hôtel de Région,,3,009534,ffffff
+27-0,27,La Herdrie - Pirmil,,3,b5ddf3,000000
+28-0,28,Vertou - Pirmil,,3,b5ddf3,000000
+30-0,30,Joliverie / Iles de Loire - Trentemoult,,3,ffed00,000000
+33-0,33,Robinière / L'Aufrère - Espace Diderot,,3,f5bac6,000000
+36-0,36,Greneraie - Croix Jeannette,,3,00a4a7,ffffff
+38-0,38,Greneraie - Aéroport,,3,009640,ffffff
+40-0,40,Mendès France - Bellevue - Neustrie,,3,ffed00,000000
+42-0,42,Vertou - Pirmil,,3,cbd300,000000
+47-0,47,Pégers / Grande Noëlle - Vertou,,3,beabd0,ffffff
+50-0,50,Basse Indre - Porte de La Chapelle,,3,ffed00,000000
+54-0,54,Marcel Paul - Saupin,,3,cbd300,000000
+59-0,59,Mendès France - Bellevue - Bout des Landes.,,3,f5bac6,000000
+60-0,60,Quintaine - Vertou,,3,F8EA22,000000
+66-0,66,Babinière - Ecole Centrale-Audencia,,3,2c4393,ffffff
+67-0,67,Le Cellier - Centre de Thouaré,,3,2c4393,ffffff
+69-0,69,Sautron - Orvault - Morlière,,3,c0893a,ffffff
+71-0,71,Bac de Couëron - François Mitterrand,,3,cbd300,000000
+75-0,75,Charbonneau - Facultés,,3,e9c389,000000
+77-0,77,Sables d'Or - Haluchère - Batignolles,,3,b5ddf3,000000
+78-0,78,Bac du Pellerin - Neustrie,,3,f8b323,000000
+79-0,79,Orvault - Beauséjour,,3,f5bac6,000000
+80-0,80,Chassay / Bellevue -  Fac de Droit,,3,ffed00,000000
+81-0,81,Mendès France - Bellevue - Gare Maritime,,3,00a4a7,ffffff
+85-0,85,Bois St-Lys - Haluchère - Batignolles,,3,f5bac6,000000
+86-0,86,La Chapelle Aulnay/Coutancière - Bout des Pavés,,3,34b4e4,ffffff
+87-0,87,Le Halleray - Toutes Aides,,3,f8b323,000000
+88-0,88,Château d'Aux - Neustrie,,3,beabd0,ffffff
+89-0,89,Le Cardo - Beauséjour,,3,77ad1c,ffffff
+91-0,91,Couëron-Bougon - Mendès France - Bellevue,,3,009534,ffffff
+93-0,93,Hôpital Laënnec - Hauts de Couëron,,3,00a4a7,ffffff
+95-0,95,Souchais - Haluchère - Batignolles,,3,cbd300,000000
+96-0,96,La Chapelle Aulnay - Beauséjour,,3,f8b323,000000
+97-0,97,Vertou - Trentemoult,,3,beabd0,ffffff
+98-0,98,St-Léger-les-Vignes / Brains - Neustrie,,3,f8b323,000000
+101-0,101,Mairie de Couëron - Sinière,,3,ffffff,e53138
+102-0,102,Chalonges - René Bernier,,3,ffffff,e53138
+104-0,104,Les Sorinières - Petite Lande,,3,ffffff,e53138
+105-0,105,Collège Sainte Anne - Centre de Thouaré,,3,ffffff,e53138
+107-0,107,Bournière - Reinetière,,3,ffffff,e53138
+108-0,108,Saint-Hermeland - Saint-Léger-les-Vignes,,3,ffffff,e53138
+109-0,109,Ferrière - Couchant,,3,ffffff,e53138
+111-0,111,ADAPEI à Tillay - Lycée Appert,,3,ffffff,e53138
+112-0,112,St Blaise - Savarières,,3,ffffff,e53138
+115-0,115,Lycée Carquefou - Beaujoire,,3,ffffff,e53138
+116-0,116,Coutancière - Lycée Appert,,3,ffffff,e53138
+117-0,117,Le Halleray - Reinetière,,3,ffffff,e53138
+118-0,118,Pirmil - Saint-Léger-Les-Vignes,,3,ffffff,e53138
+119-0,119,Mairie d'Orvault - Angevinière,,3,ffffff,e53138
+122-0,122,Savarières - St Blaise,,3,ffffff,e53138
+126-0,126,Coutancière - Bout des Pavés,,3,ffffff,e53138
+127-0,127,Colinière - Monteverdi,,3,ffffff,e53138
+128-0,128,Pé de Buzay - Lycée d'Orbigny,,3,ffffff,e53138
+129-0,129,Les Anges - Angevinière,,3,ffffff,e53138
+131-0,131,Bac de Couëron - Mendès France Bellevue,,3,ffffff,e53138
+135-0,135,Petits Champs Blancs - Collège Sainte-Anne,,3,ffffff,e53138
+137-0,137,Chinon / Monteverdi - Toutes Aides,,3,ffffff,e53138
+138-0,138,Le Pellerin - Lycée de Bouaye,,3,ffffff,e53138
+139-0,139,Sautron - Angevinière,,3,ffffff,e53138
+142-0,142,CAT Vertonne - Porte de Vertou,,3,ffffff,e53138
+147-0,147,Bournière - Toutes Aides,,3,ffffff,e53138
+148-0,148,Lycée Bois Tillac - Tour Eiffel,,3,ffffff,e53138
+149-0,149,Cheverny - Sautron,,3,ffffff,e53138
+152-0,152,La Herdrie - Pirmil,,3,ffffff,e53138
+157-0,157,Toutes Aides - Le Halleray,,3,ffffff,e53138
+158-0,158,St Jean de Boisseau - Lycée de Bouaye,,3,ffffff,e53138
+159-0,159,Sautron - Angevinière,,3,ffffff,e53138
+162-0,162,La Herdrie - Pirmil,,3,ffffff,e53138
+169-0,169,Sautron - Thébaudières,,3,ffffff,e53138
+172-0,172,René Bernier - Pirmil,,3,ffffff,e53138
+179-0,179,Les Anges - Orvault-Morlière,,3,ffffff,e53138
+187-0,187,CIFAM - Haluchère-Batignolles,,3,ffffff,e53138
+189-0,189,Pont Marchand - Angevinière,,3,ffffff,e53138
+192-0,192,Jean Monnet - Porte de Vertou,,3,ffffff,e53138
+C1-0,C1,Haluchère - Batignolles - Gare de Chantenay,,3,34b4e4,ffffff
+C2-0,C2,Le Cardo - Gare Sud,,3,ed7703,ffffff
+C20-0,C20,Ecole Centrale - Audencia - Gare de Chantenay,,3,F8EA22,000000
+C3-0,C3,Armor - Bd de Doulon,,3,f8b323,000000
+C4-0,C4,Les Sorinières - Greneraie,,3,77ad1c,ffffff
+C6-0,C6,Chantrerie Grandes Ecoles - Hermeland,,3,beabd0,ffffff
+C7-0,C7,Trianon / Clairais - Souillarderie,,3,cbd300,000000
+C9-0,C9,Basse Goulaine / Chalonges - Pirmil,,3,F5B8C6,000000
+E1-0,E1,Couëron Océan - Gare Maritime,,3,e53138,ffffff
+E4-0,E4,Porte de Vertou - Vertou,,3,e53138,ffffff
+E5-0,E5,Carquefou - Fac de Droit,,3,e53138,ffffff
+E8-0,E8,Le Pellerin - Greneraie,,3,e53138,ffffff
+LC-0,LC,Chantrerie Grandes Ecoles - Luciole Jeudi,,3,ffffff,242d77
+LCE-0,LCE,Cotalard - La chapelle-sur-Erdre,,3,009534,ffffff
+LCN-0,LCN,La Chapelle sur Erdre - pont Pilet,,3,e53138,ffffff
+LCO-0,LCO,René Cassin - La chapelle-sur-Erdre,,3,34b4e4,ffffff
+LN-0,LN,Hangar à Bananes - Luciole Samedi Nord,,3,f91aff,ffffff
+LO-0,LO,Hangar à Bananes - Luciole Samedi Ouest,,3,fffa3e,242d77
+LS-0,LS,Hangar à Bananes - Luciole Samedi Sud,,3,00ffc2,242d77
+N1-0,N1,Trentemoult - Roquios - Gare Maritime,,4,2aaab6,ffffff
+N2-0,N2,Bas-Chantenay - Hangar à Bananes,,4,2aaab6,ffffff
+N3-0,N3,Port Boyer Navibus - Petit Port-Facultés,,4,2aaab6,ffffff
+NA-0,NA,Aéroport - Hôtel Dieu,,3,34b4e4,ffffff
+NBI-0,NBI,Basse Indre - Chabossière,,3,ffffff,2c4393
